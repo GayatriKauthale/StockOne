@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/wishlist"
+        android:title="@string/marcket_watch" />
+    <item
+        android:id="@+id/my_calls"
+        android:icon="@drawable/wishlist"
+        android:title="@string/itwatch" />
+
+
+</menu>
